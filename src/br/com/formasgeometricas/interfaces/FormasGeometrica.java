@@ -1,2 +1,6 @@
-package br.com.formasgeometricas.interfaces;public class FormasGeometrica {
+package br.com.formasgeometricas.interfaces;
+
+public abstract class FormasGeometrica {
+    public abstract String toString();
+
 }

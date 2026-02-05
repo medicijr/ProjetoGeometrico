@@ -1,2 +1,6 @@
-package br.com.formasgeometricas.interfaces;public class Forma2D {
+package br.com.formasgeometricas.interfaces;
+
+public interface Forma2D {
+    public double calcularArea();
+    public double calcularPerimetro();
 }
